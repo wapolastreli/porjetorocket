@@ -178,10 +178,10 @@ footer {
 
 @keyframes slide-in {
   from {
-    left: 0%;
+    right: 0;
   }
   to {
-    right: 50%;
+    left: 50%;
   }
 }
 @keyframes slide-out {
@@ -189,6 +189,6 @@ footer {
     left: 50%;
   }
   to {
-    right: 0%;
+    right: 0;
   }
 }
